@@ -1,6 +1,10 @@
 # Python_like_Python
-
-
+programmers의 '파이썬을 파이썬답게'을 참고하여 공부한 결과이다.  
+(참고 URL : https://programmers.co.kr/learn/courses/4008#curriculum)    
+이런 분들께 추천합니다  
+- 파이썬 문법을 알고 계시는 분  
+- 알고리즘 문제를 조금 더 쉽게 풀고 싶은 분  
+- Python 코드를 low level 언어(C/C++) 코드처럼 짜시는 분
 
 ---
 
